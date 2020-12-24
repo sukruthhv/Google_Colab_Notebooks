@@ -1,0 +1,1 @@
+This repo has the Recommendation system notebooks, which has been tried on Google colab and have also integrated with some comments for the Dataset. Additionally, you can go through the notes in Notion :- https://www.notion.so/ML-Advanced-ML-3-a6311f75b0fa4f0daa31eeed6a9b7878#81520522c23f40d785b3b03d9d099435 
